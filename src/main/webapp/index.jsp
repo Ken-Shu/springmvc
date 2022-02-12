@@ -8,6 +8,7 @@
 </head>
 <body>
 	<li><a href="/springmvc/mvc/user/input">User Form</a></li>
-	
+	<li><a href="/springmvc/mvc/lotto/">Lotto Form</a></li>
+	<li><a href="/springmvc/mvc/employee/">Employee Form</a></li>
 </body>
 </html>
