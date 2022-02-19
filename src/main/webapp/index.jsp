@@ -10,5 +10,8 @@
 	<li><a href="/springmvc/mvc/user/input">User Form</a></li>
 	<li><a href="/springmvc/mvc/lotto/">Lotto Form</a></li>
 	<li><a href="/springmvc/mvc/employee/">Employee Form</a></li>
+	<li><a href="/springmvc/mvc/person/">Person Form</a></li>
+	<li><a href="/springmvc/mvc/stock/">Stock Form</a></li>
+	<li><a href="/springmvc/mvc/lab/emp/">Employee Form</a></li>
 </body>
 </html>
